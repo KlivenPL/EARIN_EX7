@@ -1,6 +1,6 @@
 # EARIN EX7
 ## Two-layer perceptron  
-Program that trains itself with function ```sin(x * 2) + cos(x * 3)```
+Program that trains itself with function ```sin(x * 2) + cos(x * 3)```  
 Created in Python 3.9 using PyTorch machine learning library by Oskar Hącel & Marcin Lisowski  
 
 Politechnika Warszawska, 05.2021
